@@ -44,13 +44,15 @@ https://feederwatch.org/explore/raw-dataset-requests/
 
 ## Charts Of Interest
  ### Bird Visits by Month
- ![Bird Visits by Month](\Birds_Per_Month.png)
+ ![Birds_Per_Month](https://github.com/user-attachments/assets/654012c4-e074-4f64-94f5-fb9173e1f456)
 
  ### Nuthatch Daily Visits in December
- ![December Nuthatch Visits](\December_Nuthatch_Chart.png)
+ ![December_Nuthatch_Chart](https://github.com/user-attachments/assets/20d02565-3bc2-48bb-87c4-1d0169acb736)
+
 
  ### Nuthatch Daily Visits in January
- ![January Nuthatch Visits](\January_Nuthatch_Chart.png)
+![January_Nuthatch_Chart](https://github.com/user-attachments/assets/22e72f37-23ef-416c-aae6-e782e6444eda)
+
 
 
 # Summary
